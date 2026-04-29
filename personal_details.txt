@@ -1,0 +1,11 @@
+========================================
+        PERSONAL DETAILS
+========================================
+
+Name         : Md Mozammil Raja
+Course       : MCA 2nd Semester
+Subject      : CA24
+Faculty No.  : 25MCA029
+Student ID   : 202511284
+
+========================================
